@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4ae3efa-d030-4737-9acf-c4d71f832384" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/achievements_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/achievements_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/achievement.rb" afterPath="$PROJECT_DIR$/app/models/achievement.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/user.rb" afterPath="$PROJECT_DIR$/app/models/user.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/schema.rb" afterPath="$PROJECT_DIR$/db/schema.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/controllers/achievements_controller_spec.rb" afterPath="$PROJECT_DIR$/spec/controllers/achievements_controller_spec.rb" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
@@ -23,18 +18,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="achievements_controller_spec.rb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="achievements_controller_spec.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spec/controllers/achievements_controller_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="165" column="11" lean-forward="true" selection-start-line="165" selection-start-column="11" selection-end-line="165" selection-end-column="11" />
+            <state relative-caret-position="120">
+              <caret line="74" column="32" lean-forward="false" selection-start-line="74" selection-start-column="32" selection-end-line="74" selection-end-column="32" />
               <folding>
-                <element signature="e#2266#2698#0" expanded="false" />
-                <element signature="e#2724#3122#0" expanded="false" />
-                <element signature="e#3147#3414#0" expanded="false" />
-                <element signature="e#3443#4468#0" expanded="false" />
-                <element signature="e#6969#7218#0" expanded="false" />
-                <element signature="e#7245#8220#0" expanded="false" />
+                <element signature="e#110#1000#0" expanded="false" />
+                <element signature="e#1026#2229#0" expanded="false" />
+                <element signature="e#2263#8155#0" expanded="false" />
+                <element signature="e#2430#2697#0" expanded="false" />
+                <element signature="e#2726#3751#0" expanded="false" />
+                <element signature="e#3803#4597#0" expanded="false" />
+                <element signature="e#6344#6629#0" expanded="false" />
+                <element signature="e#6660#7735#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -50,11 +47,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="user.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="user.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/models/user.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="2" column="57" lean-forward="true" selection-start-line="2" selection-start-column="57" selection-end-line="2" selection-end-column="57" />
+              <caret line="2" column="57" lean-forward="false" selection-start-line="2" selection-start-column="57" selection-end-line="2" selection-end-column="57" />
               <folding />
             </state>
           </provider>
@@ -133,8 +130,8 @@
         <option value="$PROJECT_DIR$/app/controllers/achievements_controller.rb" />
         <option value="$PROJECT_DIR$/db/migrate/20181022082010_add_user_achievements.rb" />
         <option value="$PROJECT_DIR$/db/schema.rb" />
-        <option value="$PROJECT_DIR$/spec/controllers/achievements_controller_spec.rb" />
         <option value="$PROJECT_DIR$/app/models/user.rb" />
+        <option value="$PROJECT_DIR$/spec/controllers/achievements_controller_spec.rb" />
       </list>
     </option>
   </component>
@@ -368,12 +365,12 @@
       <updated>1539699986538</updated>
       <workItem from="1539699988100" duration="1023000" />
       <workItem from="1539701566944" duration="9191000" />
-      <workItem from="1540191839935" duration="4138000" />
+      <workItem from="1540191839935" duration="4887000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14352000" />
+    <option name="totallyTimeSpent" value="15101000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-384" y="-1046" width="1270" height="999" extended-state="0" />
@@ -414,12 +411,14 @@
         <state relative-caret-position="1935">
           <caret line="129" column="19" lean-forward="false" selection-start-line="129" selection-start-column="19" selection-end-line="129" selection-end-column="19" />
           <folding>
-            <element signature="e#2266#2698#0" expanded="false" />
-            <element signature="e#2724#3122#0" expanded="false" />
-            <element signature="e#3147#3414#0" expanded="false" />
-            <element signature="e#3443#4468#0" expanded="false" />
-            <element signature="e#6969#7218#0" expanded="false" />
-            <element signature="e#7245#8220#0" expanded="false" />
+            <element signature="e#110#1000#0" expanded="false" />
+            <element signature="e#1026#2229#0" expanded="false" />
+            <element signature="e#2263#8155#0" expanded="false" />
+            <element signature="e#2430#2697#0" expanded="false" />
+            <element signature="e#2726#3751#0" expanded="false" />
+            <element signature="e#3803#4597#0" expanded="false" />
+            <element signature="e#6344#6629#0" expanded="false" />
+            <element signature="e#6660#7735#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -653,14 +652,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spec/factories/users.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="31" lean-forward="false" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/achievements_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="671">
@@ -669,26 +660,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spec/controllers/achievements_controller_spec.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="165" column="11" lean-forward="true" selection-start-line="165" selection-start-column="11" selection-end-line="165" selection-end-column="11" />
-          <folding>
-            <element signature="e#2266#2698#0" expanded="false" />
-            <element signature="e#2724#3122#0" expanded="false" />
-            <element signature="e#3147#3414#0" expanded="false" />
-            <element signature="e#3443#4468#0" expanded="false" />
-            <element signature="e#6969#7218#0" expanded="false" />
-            <element signature="e#7245#8220#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/models/user.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="57" lean-forward="true" selection-start-line="2" selection-start-column="57" selection-end-line="2" selection-end-column="57" />
+          <caret line="2" column="57" lean-forward="false" selection-start-line="2" selection-start-column="57" selection-end-line="2" selection-end-column="57" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/factories/users.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="31" lean-forward="false" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/controllers/achievements_controller_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="74" column="32" lean-forward="false" selection-start-line="74" selection-start-column="32" selection-end-line="74" selection-end-column="32" />
+          <folding>
+            <element signature="e#110#1000#0" expanded="false" />
+            <element signature="e#1026#2229#0" expanded="false" />
+            <element signature="e#2263#8155#0" expanded="false" />
+            <element signature="e#2430#2697#0" expanded="false" />
+            <element signature="e#2726#3751#0" expanded="false" />
+            <element signature="e#3803#4597#0" expanded="false" />
+            <element signature="e#6344#6629#0" expanded="false" />
+            <element signature="e#6660#7735#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
