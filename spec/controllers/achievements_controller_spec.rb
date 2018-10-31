@@ -237,7 +237,7 @@ describe AchievementsController do
       describe "DELETE destroy" do
         it "redirects to achievement@index" do
           delete :destroy, params: { id: achievement }
-          expect(response).to redirect_to(achievement_path)
+          expect(response).to redirect_to(achievements_path)
         end
 
         it "deletes achievements from database" do
