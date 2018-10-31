@@ -34,6 +34,8 @@ group :test do
   gem 'capybara'
   gem 'cucumber-rails', require: false
   gem 'database_cleaner'
+  gem 'shoulda-matchers', require: false
+  gem 'rails-controller-testing'
 end
 
 group :development do
