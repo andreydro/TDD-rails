@@ -2,7 +2,7 @@ class NewAchievementForm
   include Capybara::DSL
 
   def visit_page
-    visit ('/')
+    visit('/')
     click_on('New_Achievement')
     self
   end
