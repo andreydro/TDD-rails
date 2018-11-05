@@ -17,6 +17,7 @@ gem 'simple_form'
 gem 'redcarpet'
 gem 'devise'
 gem 'carrierwave'
+gem 'twitter'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
@@ -37,6 +38,8 @@ group :test do
   gem 'database_cleaner'
   gem 'shoulda-matchers', require: false
   gem 'rails-controller-testing'
+  gem 'vcr'
+  gem 'webmock'
 end
 
 group :development do
